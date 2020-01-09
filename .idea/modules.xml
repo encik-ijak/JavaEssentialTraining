@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckedExceptions/CheckedExceptions.iml" filepath="$PROJECT_DIR$/CheckedExceptions/CheckedExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomClasses/CustomClasses.iml" filepath="$PROJECT_DIR$/CustomClasses/CustomClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEssentialTraining.iml" filepath="$PROJECT_DIR$/JavaEssentialTraining.iml" />
     </modules>
