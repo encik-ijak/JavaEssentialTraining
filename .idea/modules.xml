@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckedExceptions/CheckedExceptions.iml" filepath="$PROJECT_DIR$/CheckedExceptions/CheckedExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Constructors/Constructors.iml" filepath="$PROJECT_DIR$/Constructors/Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomClasses/CustomClasses.iml" filepath="$PROJECT_DIR$/CustomClasses/CustomClasses.iml" />
