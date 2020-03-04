@@ -11,9 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/Dates/Dates.iml" filepath="$PROJECT_DIR$/Dates/Dates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Files/Files.iml" filepath="$PROJECT_DIR$/Files/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSON/JSON.iml" filepath="$PROJECT_DIR$/JSON/JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEssentialTraining.iml" filepath="$PROJECT_DIR$/JavaEssentialTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewIO/NewIO.iml" filepath="$PROJECT_DIR$/NewIO/NewIO.iml" />
     </modules>
   </component>
 </project>
