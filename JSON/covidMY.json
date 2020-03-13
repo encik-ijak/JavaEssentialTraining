@@ -26,7 +26,7 @@
 	},
 	{
 		"State" : "Sabah",
-		"Known_cases" : 2,
+		"Known_cases" : 15,
 		"Discharged" : 0
 	},
 	{
@@ -73,5 +73,5 @@
 		"State" : "Putrajaya",
 		"Known_cases" : 1,
 		"Discharged" : 0
-	}
+	},
 ]
