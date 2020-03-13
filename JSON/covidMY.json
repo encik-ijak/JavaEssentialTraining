@@ -63,12 +63,12 @@
 		"State" : "Melaka",
 		"Known_cases" : 1,
 		"Discharged" : 0
-	}
+	},
 	{
 		"State" : "Perlis",
 		"Known_cases" : 1,
 		"Discharged" : 0
-	}
+	},
 	{
 		"State" : "Putrajaya",
 		"Known_cases" : 1,
