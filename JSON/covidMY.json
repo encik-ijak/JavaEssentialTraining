@@ -1,67 +1,67 @@
 [
 	{
 		"State" : "Selangor/KL",
-		"Known cases" : 83,
+		"Known_cases" : 83,
 		"Discharged" : 12
 	},
 	{
 		"State" : "Johor",
-		"Known cases" : 9,
+		"Known_cases" : 9,
 		"Discharged" : 8
 	},
 	{
 		"State" : "Negeri Sembilan",
-		"Known cases" : 6,
+		"Known_cases" : 6,
 		"Discharged" : 4
 	},
 	{
 		"State" : "Kedah",
-		"Known cases" : 3,
+		"Known_cases" : 3,
 		"Discharged" : 3
 	},
 	{
 		"State" : "Sarawak",
-		"Known cases" : 3,
+		"Known_cases" : 3,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Sabah",
-		"Known cases" : 2,
+		"Known_cases" : 2,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Penang",
-		"Known cases" : 1,
+		"Known_cases" : 1,
 		"Discharged" : 1
 	},
 	{
 		"State" : "Pahang",
-		"Known cases" : 1,
+		"Known_cases" : 1,
 		"Discharged" : 1
 	},
 	{
 		"State" : "Kelantan",
-		"Known cases" : 1,
+		"Known_cases" : 1,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Perlis",
-		"Known cases" : 0,
+		"Known_cases" : 0,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Perak",
-		"Known cases" : 0,
+		"Known_cases" : 0,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Terengganu",
-		"Known cases" : 0,
+		"Known_cases" : 0,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Terengganu",
-		"Known cases" : 0,
+		"Known_cases" : 0,
 		"Discharged" : 0
 	}
 ]
