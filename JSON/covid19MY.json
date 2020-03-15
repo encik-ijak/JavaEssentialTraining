@@ -1,9 +1,11 @@
-{
-	"Country":"Malaysia",
-	"cases":238,
-	"todayCases":41,
-	"deaths":0,
-	"todayDeaths":0,
-	"recovered":35,
-	"critical":4
-}
+[
+	{
+		"Country":"Malaysia",
+		"cases":238,
+		"todayCases":41,
+		"deaths":0,
+		"todayDeaths":0,
+		"recovered":35,
+		"critical":4
+	}
+]
