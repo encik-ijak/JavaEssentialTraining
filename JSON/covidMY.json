@@ -5,8 +5,13 @@
 		"Discharged" : 21
 	},
 	{
-		"State" : "Sabah",
-		"Known_cases" : 26,
+		"State" : "Undisclosed",
+		"Known_cases" : 133,
+		"Discharged" : 0
+	},
+	{
+		"State" : "Sabah/Labuan",
+		"Known_cases" : 28,
 		"Discharged" : 0
 	},
 	{
@@ -56,11 +61,6 @@
 	},
 	{
 		"State" : "Perlis",
-		"Known_cases" : 2,
-		"Discharged" : 0
-	},
-	{
-		"State" : "Labuan",
 		"Known_cases" : 2,
 		"Discharged" : 0
 	},
