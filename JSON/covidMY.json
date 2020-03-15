@@ -1,7 +1,7 @@
 [
 	{
 		"State" : "Selangor/KL",
-		"Known_cases" : 135,
+		"Known_cases" : 136,
 		"Discharged" : 21
 	},
 	{
@@ -15,14 +15,14 @@
 		"Discharged" : 8
 	},
 	{
+		"State" : "Sarawak",
+		"Known_cases" : 20,
+		"Discharged" : 0
+	},
+	{
 		"State" : "Negeri Sembilan",
 		"Known_cases" : 19,
 		"Discharged" : 2
-	},
-	{
-		"State" : "Sarawak",
-		"Known_cases" : 10,
-		"Discharged" : 0
 	},
 	{
 		"State" : "Penang",
