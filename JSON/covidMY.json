@@ -1,12 +1,12 @@
 [
 	{
-		"State" : "Selangor/KL",
-		"Known_cases" : 249,
-		"Discharged" : 21
+		"State" : "S'gor/KL/Putrajaya",
+		"Known_cases" : 250,
+		"Discharged" : 27
 	},
 	{
-		"State" : "Sabah/Labuan",
-		"Known_cases" : 61,
+		"State" : "Sabah",
+		"Known_cases" : 57,
 		"Discharged" : 0
 	},
 	{
@@ -15,14 +15,34 @@
 		"Discharged" : 8
 	},
 	{
-		"State" : "Sarawak",
-		"Known_cases" : 21,
-		"Discharged" : 0
-	},
-	{
 		"State" : "Negeri Sembilan",
 		"Known_cases" : 42,
 		"Discharged" : 2
+	},
+	{
+		"State" : "Sarawak",
+		"Known_cases" : 34,
+		"Discharged" : 0
+	},
+	{
+		"State" : "Kedah",
+		"Known_cases" : 31,
+		"Discharged" : 3
+	},
+	{
+		"State" : "Pahang",
+		"Known_cases" : 19,
+		"Discharged" : 1
+	},
+	{
+		"State" : "Kelantan",
+		"Known_cases" : 18,
+		"Discharged" : 0
+	},
+	{
+		"State" : "Perak",
+		"Known_cases" : 18,
+		"Discharged" : 0
 	},
 	{
 		"State" : "Penang",
@@ -35,38 +55,18 @@
 		"Discharged" : 0
 	},
 	{
-		"State" : "Kedah",
-		"Known_cases" : 31,
-		"Discharged" : 3
-	},
-	{
-		"State" : "Kelantan",
-		"Known_cases" : 18,
-		"Discharged" : 0
-	},
-	{
-		"State" : "Pahang",
-		"Known_cases" : 19,
-		"Discharged" : 1
-	},
-	{
-		"State" : "Perak",
-		"Known_cases" : 18,
-		"Discharged" : 0
-	},
-	{
 		"State" : "Perlis",
 		"Known_cases" : 8,
 		"Discharged" : 0
 	},
 	{
-		"State" : "Terengganu",
+		"State" : "Labuan",
 		"Known_cases" : 4,
 		"Discharged" : 0
 	},
 	{
-		"State" : "Putrajaya",
-		"Known_cases" : 1,
+		"State" : "Terengganu",
+		"Known_cases" : 4,
 		"Discharged" : 0
 	}
 ]
