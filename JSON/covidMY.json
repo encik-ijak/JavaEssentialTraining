@@ -1,62 +1,62 @@
 [
 	{
 		"State" : "S'gor/KL/Putrajaya",
-		"Known_cases" : 467,
+		"Known_cases" : 501,
 		"Discharged" : 27
 	},
 	{
 		"State" : "Sabah",
-		"Known_cases" : 136,
+		"Known_cases" : 158,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Johor",
-		"Known_cases" : 129,
+		"Known_cases" : 145,
 		"Discharged" : 8
 	},
 	{
 		"State" : "Negeri Sembilan",
-		"Known_cases" : 70,
+		"Known_cases" : 78,
 		"Discharged" : 2
 	},
 	{
 		"State" : "Sarawak",
-		"Known_cases" : 68,
-		"Discharged" : 0
-	},
-	{
-		"State" : "Kelantan",
-		"Known_cases" : 61,
+		"Known_cases" : 76,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Perak",
-		"Known_cases" : 55,
+		"Known_cases" : 66,
 		"Discharged" : 0
 	},
-		{
+	{
+		"State" : "Kelantan",
+		"Known_cases" : 63,
+		"Discharged" : 0
+	},
+	{
 		"State" : "Penang",
-		"Known_cases" : 50,
+		"Known_cases" : 58,
 		"Discharged" : 1
 	},
 	{
 		"State" : "Kedah",
-		"Known_cases" : 47,
+		"Known_cases" : 52,
 		"Discharged" : 3
 	},
 	{
 		"State" : "Pahang",
-		"Known_cases" : 37,
+		"Known_cases" : 40,
 		"Discharged" : 1
 	},
 	{
 		"State" : "Terengganu",
-		"Known_cases" : 27,
+		"Known_cases" : 32,
 		"Discharged" : 0
 	},
 	{
 		"State" : "Melaka",
-		"Known_cases" : 22,
+		"Known_cases" : 23,
 		"Discharged" : 0
 	},
 	{
