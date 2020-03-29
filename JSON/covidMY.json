@@ -1,58 +1,58 @@
 {
 	{
-		"State" : "S'gor/KL/Putrajaya",
+		"state" : "S'gor/KL/Putrajaya",
 		"cases" : 501
 	},
 	{
-		"State" : "Sabah",
+		"state" : "Sabah",
 		"cases" : 158
 	},
 	{
-		"State" : "Johor",
+		"state" : "Johor",
 		"cases" : 145
 	},
 	{
-		"State" : "Negeri Sembilan",
+		"state" : "Negeri Sembilan",
 		"cases" : 78
 	},
 	{
-		"State" : "Sarawak",
+		"state" : "Sarawak",
 		"cases" : 76
 	},
 	{
-		"State" : "Perak",
+		"state" : "Perak",
 		"cases" : 66
 	},
 	{
-		"State" : "Kelantan",
+		"state" : "Kelantan",
 		"cases" : 63
 	},
 	{
-		"State" : "Penang",
+		"state" : "Penang",
 		"cases" : 58
 	},
 	{
-		"State" : "Kedah",
+		"state" : "Kedah",
 		"cases" : 52
 	},
 	{
-		"State" : "Pahang",
+		"state" : "Pahang",
 		"cases" : 40
 	},
 	{
-		"State" : "Terengganu",
+		"state" : "Terengganu",
 		"cases" : 32
 	},
 	{
-		"State" : "Melaka",
+		"state" : "Melaka",
 		"cases" : 23
 	},
 	{
-		"State" : "Perlis",
+		"state" : "Perlis",
 		"cases" : 9
 	},
 	{
-		"State" : "Labuan",
+		"state" : "Labuan",
 		"cases" : 5
 	}
 {
