@@ -1,58 +1,62 @@
-{
+[
 	{
-		"state" : "S'gor/KL/Putrajaya",
-		"cases" : 501
+		"state":"Selangor",
+		"cases":579
 	},
 	{
-		"state" : "Sabah",
-		"cases" : 158
+		"state":"KL & Putrajaya",
+		"cases":364
 	},
 	{
-		"state" : "Johor",
-		"cases" : 145
+		"state":"Johor",
+		"cases":285
 	},
 	{
-		"state" : "Negeri Sembilan",
-		"cases" : 78
+		"state":"Sabah",
+		"cases":197
 	},
 	{
-		"state" : "Sarawak",
-		"cases" : 76
+		"state":"Perak",
+		"cases":165
 	},
 	{
-		"state" : "Perak",
-		"cases" : 66
+		"state":"N Sembilan",
+		"cases":153
 	},
 	{
-		"state" : "Kelantan",
-		"cases" : 63
+		"state":"Sarawak",
+		"cases":118
 	},
 	{
-		"state" : "Penang",
-		"cases" : 58
+		"state":"Kelantan",
+		"cases":108
 	},
 	{
-		"state" : "Kedah",
-		"cases" : 52
+		"state":"P Pinang",
+		"cases":86
 	},
 	{
-		"state" : "Pahang",
-		"cases" : 40
+		"state":"Pahang",
+		"cases":84
 	},
 	{
-		"state" : "Terengganu",
-		"cases" : 32
+		"state":"Kedah",
+		"cases":74
 	},
 	{
-		"state" : "Melaka",
-		"cases" : 23
+		"state":"Terengganu",
+		"cases":45
 	},
 	{
-		"state" : "Perlis",
-		"cases" : 9
+		"state":"Melaka",
+		"cases":42
 	},
 	{
-		"state" : "Labuan",
-		"cases" : 5
+		"state":"Perlis",
+		"cases":10
+	},
+	{
+		"state":"Labuan",
+		"cases":10
 	}
-{
+]
