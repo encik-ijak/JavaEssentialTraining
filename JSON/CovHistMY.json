@@ -1,13 +1,5 @@
 [
 	{
-		"date":"22/1",
-		"hcases":0
-	},
-	{
-		"date":"23/1",
-		"hcases":0
-	},
-	{
 		"date":"24/1",
 		"hcases":0
 	},
@@ -17,51 +9,51 @@
 	},
 	{
 		"date":"26/1",
-		"hcases":4
+		"hcases":1
 	},
 	{
 		"date":"27/1",
-		"hcases":4
+		"hcases":0
 	},
 	{
 		"date":"28/1",
-		"hcases":4
+		"hcases":0
 	},
 	{
 		"date":"29/1",
-		"hcases":7
+		"hcases":3
 	},
 	{
 		"date":"30/1",
-		"hcases":8
+		"hcases":1
 	},
 	{
 		"date":"31/1",
-		"hcases":8
+		"hcases":0
 	},
 	{
 		"date":"1/2",
-		"hcases":8
+		"hcases":0
 	},
 	{
 		"date":"2/2",
-		"hcases":8
+		"hcases":0
 	},
 	{
 		"date":"3/2",
-		"hcases":8
+		"hcases":0
 	},
 	{
 		"date":"4/2",
-		"hcases":10
+		"hcases":2
 	},
 	{
 		"date":"5/2",
-		"hcases":12
+		"hcases":2
 	},
 	{
 		"date":"6/2",
-		"hcases":45
+		"hcases":0
 	},
 	{
 		"date":"7/2",
@@ -69,26 +61,214 @@
 	},
 	{
 		"date":"8/2",
-		"hcases":0
+		"hcases":2
 	},
 	{
 		"date":"9/2",
-		"hcases":79
+		"hcases":0
 	},
 	{
 		"date":"10/2",
-		"hcases":150
+		"hcases":2
 	},
 	{
 		"date":"11/2",
-		"hcases":104
+		"hcases":0
 	},
 	{
 		"date":"12/2",
-		"hcases":102
+		"hcases":0
 	},
 	{
 		"date":"13/2",
-		"hcases":80
+		"hcases":1
+	},
+	{
+		"date":"14/2",
+		"hcases":0
+	},
+	{
+		"date":"15/2",
+		"hcases":3
+	},
+	{
+		"date":"16/2",
+		"hcases":0
+	},
+	{
+		"date":"17/2",
+		"hcases":0
+	},
+	{
+		"date":"18/2",
+		"hcases":0
+	},
+	{
+		"date":"19/2",
+		"hcases":0
+	},
+	{
+		"date":"20/2",
+		"hcases":0
+	},
+	{
+		"date":"21/2",
+		"hcases":0
+	},
+	{
+		"date":"22/2",
+		"hcases":0
+	},
+	{
+		"date":"23/2",
+		"hcases":0
+	},
+	{
+		"date":"24/2",
+		"hcases":0
+	},
+	{
+		"date":"25/2",
+		"hcases":0
+	},
+	{
+		"date":"26/2",
+		"hcases":0
+	},
+	{
+		"date":"27/2",
+		"hcases":1
+	},
+	{
+		"date":"28/2",
+		"hcases":0
+	},
+	{
+		"date":"29/2",
+		"hcases":2
+	},
+	{
+		"date":"1/3",
+		"hcases":4
+	},
+	{
+		"date":"2/3",
+		"hcases":0
+	},
+	{
+		"date":"3/3",
+		"hcases":7
+	},
+	{
+		"date":"4/3",
+		"hcases":14
+	},
+	{
+		"date":"5/3",
+		"hcases":0
+	},
+	{
+		"date":"6/3",
+		"hcases":33
+	},
+	{
+		"date":"7/3",
+		"hcases":10
+	},
+	{
+		"date":"8/3",
+		"hcases":6
+	},
+	{
+		"date":"9/3",
+		"hcases":18
+	},
+	{
+		"date":"10/3",
+		"hcases":12
+	},
+	{
+		"date":"11/3",
+		"hcases":20
+	},
+	{
+		"date":"12/3",
+		"hcases":9
+	},
+	{
+		"date":"13/3",
+		"hcases":35
+	},
+	{
+		"date":"14/3",
+		"hcases":41
+	},
+	{
+		"date":"15/3",
+		"hcases":190
+	},
+	{
+		"date":"16/3",
+		"hcases":125
+	},
+	{
+		"date":"17/3",
+		"hcases":120
+	},
+	{
+		"date":"18/3",
+		"hcases":117
+	},
+	{
+		"date":"19/3",
+		"hcases":110
+	},
+	{
+		"date":"20/3",
+		"hcases":130
+	},
+	{
+		"date":"21/3",
+		"hcases":153
+	},
+	{
+		"date":"22/3",
+		"hcases":123
+	},
+	{
+		"date":"23/3",
+		"hcases":212
+	},
+	{
+		"date":"24/3",
+		"hcases":106
+	},
+	{
+		"date":"25/3",
+		"hcases":172
+	},
+	{
+		"date":"26/3",
+		"hcases":235
+	},
+	{
+		"date":"27/3",
+		"hcases":130
+	},
+	{
+		"date":"28/3",
+		"hcases":159
+	},
+	{
+		"date":"29/3",
+		"hcases":150
+	},
+	{
+		"date":"30/3",
+		"hcases":156
+	},
+	{
+		"date":"31/3",
+		"hcases":140
 	}
 ]
