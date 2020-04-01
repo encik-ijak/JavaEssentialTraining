@@ -1,59 +1,63 @@
 [
 	{
 		"state":"Selangor",
-		"cases":612
+		"cases":726
 	},
 	{
-		"state":"KL & Putrajaya",
-		"cases":394
+		"state":"Kuala Lumpur",
+		"cases":455
 	},
 	{
 		"state":"Johor",
-		"cases":309
+		"cases":368
 	},
 	{
 		"state":"Sabah",
-		"cases":197
+		"cases":209
 	},
 	{
 		"state":"Perak",
-		"cases":176
+		"cases":194
 	},
 	{
 		"state":"N Sembilan",
-		"cases":162
+		"cases":189
 	},
 	{
 		"state":"Sarawak",
-		"cases":129
+		"cases":188
 	},
 	{
 		"state":"Kelantan",
-		"cases":123
+		"cases":134
 	},
 	{
 		"state":"P Pinang",
-		"cases":87
-	},
-	{
-		"state":"Pahang",
 		"cases":96
 	},
 	{
+		"state":"Pahang",
+		"cases":111
+	},
+	{
 		"state":"Kedah",
-		"cases":75
+		"cases":79
 	},
 	{
 		"state":"Terengganu",
-		"cases":47
+		"cases":48
 	},
 	{
 		"state":"Melaka",
-		"cases":43
+		"cases":63
+	},
+	{
+		"state":"Putrajaya",
+		"cases":26
 	},
 	{
 		"state":"Perlis",
-		"cases":10
+		"cases":12
 	},
 	{
 		"state":"Labuan",
