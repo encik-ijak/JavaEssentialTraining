@@ -58,5 +58,37 @@
 	{
 		"date":"5/2",
 		"hcases":12
+	},
+	{
+		"date":"6/2",
+		"hcases":45
+	},
+	{
+		"date":"7/2",
+		"hcases":0
+	},
+	{
+		"date":"8/2",
+		"hcases":0
+	},
+	{
+		"date":"9/2",
+		"hcases":79
+	},
+	{
+		"date":"10/2",
+		"hcases":150
+	},
+	{
+		"date":"11/2",
+		"hcases":104
+	},
+	{
+		"date":"12/2",
+		"hcases":102
+	},
+	{
+		"date":"13/2",
+		"hcases":80
 	}
 ]
